@@ -27,14 +27,14 @@
     padding: 12px;
 }
 
-.div-green {
+.div-color1 {
     height: 66px;
     width: 60px;
     float: left;
     background-color: darkmagenta;
 }
 
-.div-red {
+.div-color2 {
     height: 66px;
     width: 60px;
     float: right;
