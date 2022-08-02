@@ -1,0 +1,44 @@
+
+
+
+.my-button {
+    background-color: white;
+    border: solid black;
+    border-width: 1px;
+
+}
+
+.my-button:hover {
+    background-color: black;
+    color: white;
+
+}
+
+.my-img {
+    width: 78px;
+    border-radius: 78px;
+
+}
+
+.div1 {
+    width: 160px;
+    height: 80px;
+    background-color: cornflowerblue;
+    padding: 12px;
+}
+
+.div-green {
+    height: 66px;
+    width: 60px;
+    float: left;
+    background-color: darkmagenta;
+}
+
+.div-red {
+    height: 66px;
+    width: 60px;
+    float: right;
+    background-color: chartreuse;
+}
+
+
